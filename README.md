@@ -12,3 +12,8 @@ d) Block size
 Observations and Recording can be found under reports directory
 
 This was done as a part of the Computer Architecture course
+
+
+	Software Used
+
+Simple Simulator (C++)
